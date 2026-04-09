@@ -1,4 +1,4 @@
-# KissPro-Plugin-MCGalaxy-ClassiCube
+# KissPro Plugin MCGalaxy ClassiCube
 El KissPro es un plugin para servidores de ClassiCube que usen MCGalaxy como software principal, fue desarrollado por los jugadores jose_120 y AndresDMC y distribuido por Pizzaclap43.
 
 El plugin fue desarrollado para enviar un mensaje en el chat del servidor el cual sale el nombre del jugador que este ejecutando dicho comando enviandole un beso a otro a traves del comando "/kiss [Nombre de Usuario del Jugador al que le quiere enviar el beso]" con el mensaje en el chat diciendo "[Jugador que ejecuto el comando] le dio un beso a [Jugador al que le envio el beso]".
