@@ -16,5 +16,5 @@ El plugin fue desarrollado para enviar un mensaje en el chat del servidor el cua
 2. Vuelvo y repito, solo funciona en servidores que usen MCGalaxy.
 3. Puedes darte un beso a ti mismo, suena estupido pero si se puede xd.
 4. Si tu ejecutas el comando "/kiss" con un jugador que no este dentro del servidor, te saldra un mensaje en el chat diciendo "Ese jugador no esta conectado".
-5. El mensaje del beso saldra publicamente en el chat, asi que cualquiera que este dentro del servidor podra ver el mensaje.
+5. El mensaje del beso saldra publicamente en el chat del servidor, asi que cualquiera que este dentro del servidor podra ver el mensaje.
 6. Mis amigos jose_120 y AndresDMC desarrollaron y editaron el codigo del plugin y yo les hice el favor de subirlo aqui y darles credito y reconocimiento.
