@@ -7,7 +7,7 @@ El plugin fue desarrollado para enviar un mensaje en el chat del servidor el cua
 
 1. El archivo KissPro.cs se tiene que colocar en la carpeta de plugins de dicho servidor.
 2. El plugin solo funciona en servidores de ClassiCube que usen MCGalaxy como software principal, si se usa con otro software no funcionara.
-3. Una vez colocado el archivo KissPro.cs en la carpeta de plugins, tiene que entrar al servidor y compilarlo con el comando "/pcompile plugins KissPro.cs"
+3. Una vez colocado el archivo KissPro.cs en la carpeta de plugins, tiene que entrar al servidor y compilarlo con el comando "/pcompile plugin KissPro.cs"
 4. Una vez ya alla compilado el plugin, ejecutelo y pruebelo con algun jugador que este dentro del servidor.
 
 # NOTA
